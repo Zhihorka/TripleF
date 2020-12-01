@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TripleF/static/css/main.886dad92.chunk.css",
-    "main.js": "/TripleF/static/js/main.f56e0c09.chunk.js",
-    "main.js.map": "/TripleF/static/js/main.f56e0c09.chunk.js.map",
+    "main.js": "/TripleF/static/js/main.be5055b5.chunk.js",
+    "main.js.map": "/TripleF/static/js/main.be5055b5.chunk.js.map",
     "runtime-main.js": "/TripleF/static/js/runtime-main.22954050.js",
     "runtime-main.js.map": "/TripleF/static/js/runtime-main.22954050.js.map",
-    "static/js/2.c6625003.chunk.js": "/TripleF/static/js/2.c6625003.chunk.js",
-    "static/js/2.c6625003.chunk.js.map": "/TripleF/static/js/2.c6625003.chunk.js.map",
+    "static/js/2.03b34930.chunk.js": "/TripleF/static/js/2.03b34930.chunk.js",
+    "static/js/2.03b34930.chunk.js.map": "/TripleF/static/js/2.03b34930.chunk.js.map",
     "static/js/3.5ba78ddd.chunk.js": "/TripleF/static/js/3.5ba78ddd.chunk.js",
     "static/js/3.5ba78ddd.chunk.js.map": "/TripleF/static/js/3.5ba78ddd.chunk.js.map",
     "index.html": "/TripleF/index.html",
     "static/css/main.886dad92.chunk.css.map": "/TripleF/static/css/main.886dad92.chunk.css.map",
-    "static/js/2.c6625003.chunk.js.LICENSE.txt": "/TripleF/static/js/2.c6625003.chunk.js.LICENSE.txt",
+    "static/js/2.03b34930.chunk.js.LICENSE.txt": "/TripleF/static/js/2.03b34930.chunk.js.LICENSE.txt",
     "static/media/Defile.5c59c487.png": "/TripleF/static/media/Defile.5c59c487.png",
     "static/media/Gallery1.a575fde0.jpg": "/TripleF/static/media/Gallery1.a575fde0.jpg",
     "static/media/Gallery2.5ddf40ad.jpg": "/TripleF/static/media/Gallery2.5ddf40ad.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.22954050.js",
-    "static/js/2.c6625003.chunk.js",
+    "static/js/2.03b34930.chunk.js",
     "static/css/main.886dad92.chunk.css",
-    "static/js/main.f56e0c09.chunk.js"
+    "static/js/main.be5055b5.chunk.js"
   ]
 }
