@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TripleF/static/css/main.eca6fd45.chunk.css",
-    "main.js": "/TripleF/static/js/main.b61b950e.chunk.js",
-    "main.js.map": "/TripleF/static/js/main.b61b950e.chunk.js.map",
+    "main.js": "/TripleF/static/js/main.10212a29.chunk.js",
+    "main.js.map": "/TripleF/static/js/main.10212a29.chunk.js.map",
     "runtime-main.js": "/TripleF/static/js/runtime-main.a9ffdcc8.js",
     "runtime-main.js.map": "/TripleF/static/js/runtime-main.a9ffdcc8.js.map",
     "static/css/2.b532b5aa.chunk.css": "/TripleF/static/css/2.b532b5aa.chunk.css",
@@ -43,6 +43,6 @@
     "static/css/2.b532b5aa.chunk.css",
     "static/js/2.1cc80ab8.chunk.js",
     "static/css/main.eca6fd45.chunk.css",
-    "static/js/main.b61b950e.chunk.js"
+    "static/js/main.10212a29.chunk.js"
   ]
 }
